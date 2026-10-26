@@ -2,6 +2,8 @@
 
 A 2D platformer built with **Unity 6** and **C#**. Run, jump, climb ladders, shoot enemies, and collect coins across three levels to reach the finish door.
 
+<img width="1026" height="574" alt="tilevania" src="https://github.com/user-attachments/assets/6941da7e-a812-4656-9a3e-35126ac5b9a1" />
+
 ## Features
 
 - **Three levels** with automatic progression and a victory screen at the end
